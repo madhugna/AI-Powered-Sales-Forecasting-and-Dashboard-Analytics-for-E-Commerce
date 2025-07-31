@@ -76,3 +76,8 @@ Dashboard: Power BI Desktop
 | -------------------------- | --------------------------------- | ---------------------------------- |
 | <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/9291d393-d8f4-491a-89d5-7990e7f70fd9" /> | <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/a816f0a1-53f4-49d4-bf9b-ccbe83579155" /> | <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/979ff890-94c9-4431-9002-a7811e889923" /> |
 
+🚀 How to Run
+
+
+https://github.com/user-attachments/assets/4c813bc2-e528-41ad-830d-835e3c5a37e5
+
