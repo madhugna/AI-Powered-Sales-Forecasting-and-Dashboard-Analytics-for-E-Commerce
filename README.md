@@ -74,5 +74,5 @@ Dashboard: Power BI Desktop
 
 | Login Page                 | Prediction Page                   | Sales Dashboard                    |
 | -------------------------- | --------------------------------- | ---------------------------------- |
-| ![Login](images/login.png) | ![Prediction](images/predict.png) | ![Dashboard](images/dashboard.png) |
+| <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/9291d393-d8f4-491a-89d5-7990e7f70fd9" /> | ![Prediction](images/predict.png) | ![Dashboard](images/dashboard.png) |
 
